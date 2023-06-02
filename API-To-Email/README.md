@@ -1,5 +1,5 @@
 # API To Email
-The API To Email project is a Python program that fetches information from 2cdifferent APIs and sends the retrieved data to a specified email address.
+The API To Email project is a Python program that fetches information from 2 different APIs and sends the retrieved data to a specified email address.
 
 ## Table of Contents
 - [Project Description](#project-description)
